@@ -71,7 +71,7 @@ async def start(bot, message):
 
   await message.reply_photo(
     photo=random_image_url,
-    caption="**Developer - @pwextractowner\nPLEASE👇PRESS👇HERE**",
+    caption="**Developer - @DOCTOR_JB\nPLEASE👇PRESS👇HERE**",
     quote=True,
     reply_markup=reply_markup
   )
